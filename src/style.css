@@ -1,0 +1,15 @@
+
+#app {
+  display: grid;
+  grid: auto 1fr auto/auto;
+  align-items: start;
+  justify-items: center;
+  max-width: 1280px;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
